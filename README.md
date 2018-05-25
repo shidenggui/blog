@@ -3,6 +3,8 @@ Reading makes thought sharper, writing makes thought clearer
 
 ### 2018-05
 
+2018-05-25 【阅读】 [断舍离之公式法](https://github.com/shidenggui/blog/issues/4)
+
 2018-05-05 【阅读】 [读《师从天才：一个科学王朝的崛起》](https://github.com/shidenggui/blog/issues/3)
 
 ### 2018-04
