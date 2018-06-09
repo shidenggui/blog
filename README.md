@@ -1,6 +1,10 @@
 # blog
 Reading makes thought sharper, writing makes thought clearer
 
+### 2018-06
+
+2018-06-07 【阅读】 [读《自控力》](https://github.com/shidenggui/blog/issues/5)
+
 ### 2018-05
 
 2018-05-25 【随想】 [断舍离之公式法](https://github.com/shidenggui/blog/issues/4)
@@ -12,4 +16,5 @@ Reading makes thought sharper, writing makes thought clearer
 2018-04-21 【阅读】 [读《软件测试的艺术》](https://github.com/shidenggui/blog/issues/2)
 
 ### 2018-03
+
 2018-03-28 【阅读】 [读《富足》](https://github.com/shidenggui/blog/issues/1)
