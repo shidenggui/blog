@@ -18,3 +18,9 @@ Reading makes thought sharper, writing makes thought clearer
 ### 2018-03
 
 2018-03-28 【阅读】 [读《富足》](https://github.com/shidenggui/blog/issues/1)
+
+## 友链
+
+[laike9m's blog](https://laike9m.com/blog/)
+
+
