@@ -1,6 +1,12 @@
 # blog
 Reading makes thought sharper, writing makes thought clearer
 
+### 2018-07
+
+2018-07-13 【随想】 [Talk is cheap. Show me ? ](https://github.com/shidenggui/blog/issues/7)
+
+2018-07-11 【阅读】 [读《Why We Sleep》](https://github.com/shidenggui/blog/issues/6)
+
 ### 2018-06
 
 2018-06-07 【阅读】 [读《自控力》](https://github.com/shidenggui/blog/issues/5)
