@@ -3,6 +3,8 @@ Reading makes thought sharper, writing makes thought clearer
 
 ### 2018-07
 
+2018-07-20 【随想】 [跑步与数学](https://github.com/shidenggui/blog/issues/8)
+
 2018-07-13 【随想】 [Talk is cheap. Show me ? ](https://github.com/shidenggui/blog/issues/7)
 
 2018-07-11 【阅读】 [读《Why We Sleep》](https://github.com/shidenggui/blog/issues/6)
