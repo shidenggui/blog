@@ -3,6 +3,8 @@ Reading makes thought sharper, writing makes thought clearer
 
 ### 2018-07
 
+2018-07-24 【编程】 [编程与数学(1): Logistic Differential Equation](https://github.com/shidenggui/blog/issues/9)
+
 2018-07-20 【随想】 [跑步与数学](https://github.com/shidenggui/blog/issues/8)
 
 2018-07-13 【随想】 [Talk is cheap. Show me ? ](https://github.com/shidenggui/blog/issues/7)
