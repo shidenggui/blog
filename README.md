@@ -1,6 +1,10 @@
 # blog
 Reading makes thought sharper, writing makes thought clearer
 
+### 2018-08
+
+2018-08-31 【编程】 [设计模式与 easytrader (一)：策略模式](https://github.com/shidenggui/blog/issues/10)
+
 ### 2018-07
 
 2018-07-24 【编程】 [编程与数学(1): Logistic Differential Equation](https://github.com/shidenggui/blog/issues/9)
