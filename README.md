@@ -1,6 +1,10 @@
 # blog
 Reading makes thought sharper, writing makes thought clearer
 
+### 2018-09
+
+2018-09-16 【编程】 [编程与数学(2): Geometric Series](https://github.com/shidenggui/blog/issues/12)
+
 ### 2018-08
 
 2018-08-31 【编程】 [设计模式与 easytrader (一)：策略模式](https://github.com/shidenggui/blog/issues/10)
