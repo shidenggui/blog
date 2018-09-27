@@ -3,6 +3,8 @@ Reading makes thought sharper, writing makes thought clearer
 
 ### 2018-09
 
+2018-09-27 【编程】 [编程与数学(3): Newton's Method](https://github.com/shidenggui/blog/issues/13)
+
 2018-09-16 【编程】 [编程与数学(2): Geometric Series](https://github.com/shidenggui/blog/issues/12)
 
 ### 2018-08
