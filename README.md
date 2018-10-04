@@ -1,6 +1,10 @@
 # blog
 Reading makes thought sharper, writing makes thought clearer
 
+### 2018-10
+
+2018-10-04 【编程】 [编程与数学(4): Check for integer overflow on multiplication](https://github.com/shidenggui/blog/issues/14)
+
 ### 2018-09
 
 2018-09-27 【编程】 [编程与数学(3): Newton's Method](https://github.com/shidenggui/blog/issues/13)
