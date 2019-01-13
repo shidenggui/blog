@@ -1,6 +1,10 @@
 # blog
 Reading makes thought sharper, writing makes thought clearer
 
+### 2019-01
+
+2019-01-13 【编程】 [编程与数学(5): Trailing zeros in factorial](https://github.com/shidenggui/blog/issues/15)
+
 ### 2018-10
 
 2018-10-04 【编程】 [编程与数学(4): Check for integer overflow on multiplication](https://github.com/shidenggui/blog/issues/14)
