@@ -3,7 +3,7 @@ Reading makes thought sharper, writing makes thought clearer
 
 ### 2019-01
 
-2019-01-13 【编程】 [编程与数学(5): Trailing zeros in factorial](https://github.com/shidenggui/blog/issues/15)
+2019-01-13 【编程】 [编程与数学(5): Trailing zeroes in factorial](https://github.com/shidenggui/blog/issues/15)
 
 ### 2018-10
 
