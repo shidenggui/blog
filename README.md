@@ -1,6 +1,10 @@
 # blog
 Reading makes thought sharper, writing makes thought clearer
 
+### 2019-04
+
+2019-04-13 【编程】 [Python 源码: 复制列表元素时 Python 做了什么？](https://github.com/shidenggui/blog/issues/16)
+
 ### 2019-01
 
 2019-01-13 【编程】 [编程与数学(5): Trailing zeroes in factorial](https://github.com/shidenggui/blog/issues/15)
