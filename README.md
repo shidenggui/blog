@@ -1,6 +1,11 @@
 # blog
 Reading makes thought sharper, writing makes thought clearer
 
+### 2020-02-14 博客迁移
+
+Blog 改为使用自己开发的系统，地址为 [shidenggui.com](https://shidenggui.com)，该仓库不再更新
+
+
 ### 2019-04
 
 2019-04-13 【编程】 [Python 源码: 复制列表元素时 Python 做了什么？](https://github.com/shidenggui/blog/issues/16)
